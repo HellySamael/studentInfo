@@ -1,2 +1,3 @@
 *.idea
 .idea/
+ui/node_modules/
